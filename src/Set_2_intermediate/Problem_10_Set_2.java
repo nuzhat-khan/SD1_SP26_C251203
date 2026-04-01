@@ -11,7 +11,7 @@ public class Problem_10_Set_2 {
         s = sc.nextLine();
         String upper = s.toUpperCase();
         String lower = s.toLowerCase();
-        System.out.println("String in uppercase letters = "+upper);
-        System.out.println("String in lowercase letters = "+lower);
+        System.out.println("String in uppercase letters = " + upper);
+        System.out.println("String in lowercase letters = " + lower);
     }
 }
