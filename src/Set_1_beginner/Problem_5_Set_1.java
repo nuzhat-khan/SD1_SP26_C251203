@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Problem_5_Set_1 {
 
-    public static void main() {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num1, num2, result;
         System.out.println("Enter two numbers:");
